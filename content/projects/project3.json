@@ -1,0 +1,9 @@
+{
+  "priority": 3,
+  "title": "Diabetes Prediction",
+  "shortDescription": "This project applies machine learning techniques to predict the likelihood of diabetes based on medical attributes.",
+  "cover": "https://drive.google.com/uc?export=view&id=1vZlMFAS1YebIWwXa6wJJxugG30B_qdSN",
+  "type": "Personal Project",
+  "livePreview": "",
+  "githubLink": "https://github.com/AaryaArban/diabetes-prediction"
+}

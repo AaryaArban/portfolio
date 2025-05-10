@@ -1,0 +1,9 @@
+{
+  "priority": 2,
+  "title": "TasteMate",
+  "shortDescription": "TasteMate is an intelligent, multi-input recipe discovery web application that helps you find delicious recipes effortlessly.",
+  "cover": "https://drive.google.com/uc?export=view&id=1QT9iYW7Z8EmdPZR8dkeKvy2dW9iInkoC",
+  "livePreview": "https://tastemate-mocha.vercel.app/",
+  "type": "Group Project",
+  "githubLink": "https://github.com/cr7dig/TasteMate"
+}

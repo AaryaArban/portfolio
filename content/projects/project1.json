@@ -1,0 +1,9 @@
+{
+  "priority": 1,
+  "title": "CustomTees",
+  "shortDescription": "CustomTees is a dynamic and interactive MERN stack web application that empowers users to create and purchase custom-designed T-shirts.",
+  "cover": "https://drive.google.com/uc?export=view&id=1CSlKKeNfbzsIC-bmIgs4cw6C-bOFWmIS",
+  "livePreview": "https://customteesserver.onrender.com/",
+  "type": "Group Project",
+  "githubLink": "https://github.com/aniketmore-pixel/CustomTees"
+}
